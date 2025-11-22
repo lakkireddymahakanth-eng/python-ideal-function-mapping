@@ -1,0 +1,21 @@
+# DLMDSPWP01 - Ideal Function Mapping Assignment
+# Mahakanth Reddy Lakki - 21 November 2025
+# Python 3.9+ recommended
+
+pandas>=2.0.0
+numpy>=1.24.0
+SQLAlchemy>=2.0.0
+bokeh>=3.0.0
+
+# Optional: For opening the HTML automatically (used in some versions)
+webbrowser>=0.0.0
+
+# For development / testing (optional but recommended)
+pytest>=7.0.0
+
+# Pin exact versions that are 100% tested with this assignment
+# (These are the versions that work perfectly with Ganesh's & your code)
+pandas==2.2.2
+numpy==2.1.1
+SQLAlchemy==2.0.35
+bokeh==3.4.1
